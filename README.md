@@ -1,3 +1,3 @@
 #r BLOG
 
-Lets discuss Cybersecurity, Programming, Linux & DNS.
+Building a personal blog with Python and Django.
